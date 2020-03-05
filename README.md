@@ -2,7 +2,7 @@
 
 
 
-[blog from Rishabh Jain](https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134)
+[check out this blog from Rishabh Jain for decision tree algorithm](https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134)
 
 
 
